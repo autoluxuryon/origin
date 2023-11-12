@@ -146,7 +146,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: DarkBlue;
+	color: #FF0092;
 }
 #header .hamburger {
 	height: 60px;
